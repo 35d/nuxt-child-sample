@@ -1,5 +1,7 @@
 # nuxt-child-sample
 
+[https://priceless-hermann-5b491b.netlify.app/tasks/1](https://priceless-hermann-5b491b.netlify.app/tasks/1)
+
 ## Build Setup
 
 ```bash
